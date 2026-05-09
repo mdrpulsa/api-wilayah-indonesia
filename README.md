@@ -1,3 +1,9 @@
+---
+> **Fork dari:** [@emsifa/api-wilayah-indonesia](https://github.com/emsifa/api-wilayah-indonesia)
+> **Lisensi:** Tidak disebutkan dalam repository asli. Berdasarkan hukum hak cipta, semua hak dilindungi undang-undang ("All Rights Reserved").
+> **Tidak ada perubahan** pada kode dalam fork ini.
+---
+
 API Data Wilayah Indonesia
 ==========================
 
