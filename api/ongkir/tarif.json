@@ -1,0 +1,78 @@
+{
+  "origin": "KABUPATEN BANJARNEGARA",
+  "services": ["jnt", "jne", "pos", "sicepat"],
+  "tarif": {
+    "JAWA_TENGAH": {
+      "KABUPATEN BANJARNEGARA": { "jnt": 8000, "jne": 8000, "pos": 7000, "sicepat": 8000 },
+      "KABUPATEN BANYUMAS": { "jnt": 8000, "jne": 8000, "pos": 7000, "sicepat": 8000 },
+      "KABUPATEN PURBALINGGA": { "jnt": 8000, "jne": 8000, "pos": 7000, "sicepat": 8000 },
+      "KABUPATEN CILACAP": { "jnt": 9000, "jne": 9000, "pos": 8000, "sicepat": 9000 },
+      "KABUPATEN KEBUMEN": { "jnt": 10000, "jne": 10000, "pos": 9000, "sicepat": 10000 },
+      "KABUPATEN WONOSOBO": { "jnt": 9000, "jne": 9000, "pos": 8000, "sicepat": 9000 },
+      "KABUPATEN MAGELANG": { "jnt": 10000, "jne": 10000, "pos": 9000, "sicepat": 10000 },
+      "KABUPATEN TEMANGGUNG": { "jnt": 10000, "jne": 10000, "pos": 9000, "sicepat": 10000 },
+      "KABUPATEN KENDAL": { "jnt": 11000, "jne": 11000, "pos": 10000, "sicepat": 11000 },
+      "KABUPATEN BATANG": { "jnt": 11000, "jne": 11000, "pos": 10000, "sicepat": 11000 },
+      "KABUPATEN PEKALONGAN": { "jnt": 11000, "jne": 11000, "pos": 10000, "sicepat": 11000 },
+      "KABUPATEN PEMALANG": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KABUPATEN TEGAL": { "jnt": 11000, "jne": 11000, "pos": 10000, "sicepat": 11000 },
+      "KABUPATEN BREBES": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KABUPATEN SEMARANG": { "jnt": 11000, "jne": 11000, "pos": 9000, "sicepat": 11000 },
+      "KABUPATEN BOYOLALI": { "jnt": 11000, "jne": 11000, "pos": 9000, "sicepat": 11000 },
+      "KABUPATEN KLATEN": { "jnt": 11000, "jne": 11000, "pos": 9000, "sicepat": 11000 },
+      "KABUPATEN SUKOHARJO": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KABUPATEN KARANGANYAR": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KABUPATEN SRAGEN": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KABUPATEN GROBOGAN": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KABUPATEN BLORA": { "jnt": 13000, "jne": 13000, "pos": 11000, "sicepat": 13000 },
+      "KABUPATEN PATI": { "jnt": 13000, "jne": 13000, "pos": 11000, "sicepat": 13000 },
+      "KABUPATEN KUDUS": { "jnt": 13000, "jne": 13000, "pos": 11000, "sicepat": 13000 },
+      "KABUPATEN JEPARA": { "jnt": 14000, "jne": 14000, "pos": 12000, "sicepat": 14000 },
+      "KABUPATEN REMBANG": { "jnt": 14000, "jne": 14000, "pos": 12000, "sicepat": 14000 },
+      "KOTA SEMARANG": { "jnt": 10000, "jne": 10000, "pos": 8000, "sicepat": 10000 },
+      "KOTA MAGELANG": { "jnt": 10000, "jne": 10000, "pos": 9000, "sicepat": 10000 },
+      "KOTA PEKALONGAN": { "jnt": 11000, "jne": 11000, "pos": 10000, "sicepat": 11000 },
+      "KOTA TEGAL": { "jnt": 11000, "jne": 11000, "pos": 10000, "sicepat": 11000 },
+      "KOTA SURAKARTA": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KOTA SALATIGA": { "jnt": 11000, "jne": 11000, "pos": 9000, "sicepat": 11000 }
+    },
+    "JAWA_BARAT": {
+      "KOTA BANDUNG": { "jnt": 11000, "jne": 11000, "pos": 9000, "sicepat": 11000 },
+      "KABUPATEN BANDUNG": { "jnt": 11000, "jne": 11000, "pos": 9000, "sicepat": 11000 },
+      "KOTA BEKASI": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KABUPATEN BEKASI": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KOTA BOGOR": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KABUPATEN BOGOR": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KOTA DEPOK": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KOTA CIREBON": { "jnt": 11000, "jne": 11000, "pos": 9000, "sicepat": 11000 },
+      "KOTA TASIKMALAYA": { "jnt": 13000, "jne": 13000, "pos": 11000, "sicepat": 13000 }
+    },
+    "DKI_JAKARTA": {
+      "KOTA JAKARTA PUSAT": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KOTA JAKARTA BARAT": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KOTA JAKARTA SELATAN": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KOTA JAKARTA TIMUR": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KOTA JAKARTA UTARA": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 }
+    },
+    "BANTEN": {
+      "KOTA TANGERANG": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KOTA TANGERANG SELATAN": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KABUPATEN TANGERANG": { "jnt": 12000, "jne": 12000, "pos": 10000, "sicepat": 12000 },
+      "KOTA SERANG": { "jnt": 13000, "jne": 13000, "pos": 11000, "sicepat": 13000 }
+    },
+    "JAWA_TIMUR": {
+      "KOTA SURABAYA": { "jnt": 14000, "jne": 14000, "pos": 12000, "sicepat": 14000 },
+      "KOTA MALANG": { "jnt": 13000, "jne": 13000, "pos": 11000, "sicepat": 13000 },
+      "KOTA MADIUN": { "jnt": 14000, "jne": 14000, "pos": 12000, "sicepat": 14000 },
+      "KOTA KEDIRI": { "jnt": 14000, "jne": 14000, "pos": 12000, "sicepat": 14000 },
+      "KABUPATEN SIDOARJO": { "jnt": 14000, "jne": 14000, "pos": 12000, "sicepat": 14000 },
+      "KABUPATEN JEMBER": { "jnt": 16000, "jne": 16000, "pos": 14000, "sicepat": 16000 },
+      "KABUPATEN BANYUWANGI": { "jnt": 17000, "jne": 17000, "pos": 15000, "sicepat": 17000 }
+    },
+    "DI_YOGYAKARTA": {
+      "KOTA YOGYAKARTA": { "jnt": 11000, "jne": 11000, "pos": 9000, "sicepat": 11000 },
+      "KABUPATEN SLEMAN": { "jnt": 11000, "jne": 11000, "pos": 9000, "sicepat": 11000 },
+      "KABUPATEN BANTUL": { "jnt": 11000, "jne": 11000, "pos": 9000, "sicepat": 11000 }
+    }
+  }
+}
